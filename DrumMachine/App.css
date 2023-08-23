@@ -1,0 +1,7 @@
+.background-image-container {
+    background-image: url('https://c0.wallpaperflare.com/preview/849/234/547/turned-on-touchpad.jpg');
+    background-size: cover; /* Cover the entire container */
+    background-repeat: no-repeat; /* Prevent repeating the image */
+    padding: 20px; /* Space around the bordered container */
+  }
+  
